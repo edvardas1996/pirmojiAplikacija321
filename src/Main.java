@@ -88,11 +88,7 @@ public class Main {
                     break;
                 default:
                     System.out.println("nesupratau komandos, bandykite dar karta");
-
-
             }
         }
     }
 }
-        git config --global user.name "edvardas1996"
-        git config --global user.email "edvardasmikulenas@gmail.com"
